@@ -1,7 +1,6 @@
 # Scheduler
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+This project demonstrates a scheduling of a simple process using quartz scheduler in vaadin spring boot application
 
 ## Running the application
 
